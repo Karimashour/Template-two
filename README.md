@@ -1,16 +1,15 @@
 # link preview :
 
-https://karimashour.github.io/squash/
+https://karimashour.github.io/Template-two/
 
 <img src="image.png"/>
 
 # tools :
 - html
 - css
-- bootstrap
-- bootstrap icons
-- jquery
+- javascript
+
 
 
 # features
-- squash sport landing page 
+- template two with elzero web school landing page 
